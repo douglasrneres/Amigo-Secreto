@@ -7,6 +7,7 @@ Funcionalidades
   
 Pré-requisitos
   Navegador compatível com JavaScript.
+  Programa do Winrar para descompactar os arquivos.
   
 Como Usar
   Digite o nome do amigo no campo de entrada.
